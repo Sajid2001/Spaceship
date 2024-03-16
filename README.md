@@ -19,7 +19,7 @@ https://github.com/Sajid2001/Spaceship/assets/60523377/535d6214-fdc5-408c-9f3c-5
 - Flask
 - SQLAlchemy (SQLite)
 - LangChain
-- AuthLib
+- AuthLib (OAuth2.0: Github login method)
 - OpenAI
 - Chroma
 
