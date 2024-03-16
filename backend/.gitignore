@@ -1,0 +1,7 @@
+.env
+instance
+__pycache__
+.venv
+emb
+tutorials.txt
+run_task_generation.py
