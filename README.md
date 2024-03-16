@@ -7,8 +7,9 @@ Have trouble coming up with projects? Spaceship is there for you. Spaceship prov
 - Recommends concepts for you to learn on your current project
 - Gathers tutorial videos and series relevant to your current project
 
-## Demo (add here in Github)
+## Demo 
 
+https://github.com/Sajid2001/Spaceship/assets/60523377/535d6214-fdc5-408c-9f3c-50c2f840ad99
 
 ## Stack
 - React (Vite)
